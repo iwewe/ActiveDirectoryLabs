@@ -41,4 +41,4 @@ While these labs are designed for educational purposes, it's essential to use th
 
 This repository is licensed under the [MIT License](LICENSE). Please review the license before using or contributing to the repository.
 
-Happy learning and exploring Active Directory! 🌐🛠️
+Lets exploring Active Directory! 🌐🛠️
